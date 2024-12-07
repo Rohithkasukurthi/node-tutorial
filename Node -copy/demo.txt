@@ -1,0 +1,6 @@
+REST - api
+
+get - used to fetch data from db
+post- write data into the db
+put - update data in the db
+delete - deletes data in the db
